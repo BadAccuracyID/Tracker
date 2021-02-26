@@ -1,10 +1,11 @@
 name: Tracker
 version: 1.0
 author: Zeeppss
+description: Request From Naga 
 main: dev.zeeppss.tracker.Main
 api-version : 1.8
 commands:
   track:
-    description: Command for Player Tracker, Request from FacedApollo.
+    description: List Command for Player Tracker.
   tracker:
     description: Gui menu for buy tracker.

@@ -1,7 +1,7 @@
 name: Tracker
 version: 1.0
 author: Zeeppss
-description: Track Request From Naga 
+description: Player Track Request From Naga 
 main: dev.zeeppss.tracker.Main
 api-version : 1.8
 commands:

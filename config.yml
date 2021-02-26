@@ -1,0 +1,15 @@
+prefix : "&8[&aTracker&8]"
+formatmsg : "&7Name: &a{target} &7Range: &a{range} &7Health: &a{health} &7Food: &a{food}"
+track:
+  name: "&aCompass &7(Right Click)"
+gui: true
+defaultcompass: true
+
+#Custom recipe enables you to create a radar by putting compass in a crafting grid
+#Available format variables:
+#{name} - Name of the player
+#{target} - Target of radar
+#{range} - Range between player to target in blocks
+#{health} - Health of player targets
+#{food} - Food level of player targets
+# By Zeeppss

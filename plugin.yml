@@ -1,0 +1,10 @@
+name: Tracker
+version: 1.0
+author: Zeeppss
+main: dev.zeeppss.tracker.Main
+api-version : 1.8
+commands:
+  track:
+    description: Command for Player Tracker, Request by FacedApollo.
+  tracker:
+    description: Gui menu for buy tracker.

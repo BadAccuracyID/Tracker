@@ -4,5 +4,5 @@
 
 Use `./tracker` to open GUI Shop Tracker | Price: `2 emerald`
 
-Tracker info type: range, health, food
+Tracker with gui info type: range, health, food
 

@@ -5,7 +5,6 @@ track:
 gui: true
 defaultcompass: true
 
-#Custom recipe enables you to create a radar by putting compass in a crafting grid
 #Available format variables:
 #{name} - Name of the player
 #{target} - Target of radar
